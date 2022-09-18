@@ -61,7 +61,7 @@ $dec: 0.85;
 
 .header {
   overflow: hidden;
-  background: url(./image/picture/background_1.jpg) 0 15% / cover no-repeat;
+  background: url(../image/picture/background_1.jpg) 0 15% / cover no-repeat;
 }
 .header__top {
   display: flex;
@@ -287,7 +287,7 @@ $dec: 0.85;
 position: absolute;
 left: 74%;
 top: 35%;
-opacity: 0.05;
+
 }
 
 
@@ -637,7 +637,7 @@ line-height: 140%;
   min-width: 100%;
 }
 .benefit__table--bottom {
-  padding: 60px;
+  padding: 60px 0 60px 0;
   
 }
 

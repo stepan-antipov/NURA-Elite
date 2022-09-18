@@ -56,7 +56,7 @@ body {
 
 .header {
   overflow: hidden;
-  background: url(/image/picture/background_1.jpg) 0 15%/cover no-repeat;
+  background: url(../image/picture/background_1.jpg) 0 15%/cover no-repeat;
 }
 
 .header__top {
@@ -264,7 +264,6 @@ body {
   position: absolute;
   left: 74%;
   top: 35%;
-  opacity: 0.05;
 }
 
 .about {
@@ -565,7 +564,7 @@ body {
 }
 
 .benefit__table--bottom {
-  padding: 60px;
+  padding: 60px 0 60px 0;
 }
 
 .benefit__table-item--bottom {
