@@ -10,12 +10,14 @@ body {
 .wrapper {
   min-width: 100%;
   min-height: 100%;
+  overflow: hidden;
 }
 
 .container {
   max-width: 1440px;
   margin: 0 auto;
   padding: 0 15px;
+  overflow: hidden;
 }
 
 .title {
