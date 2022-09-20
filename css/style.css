@@ -1197,9 +1197,7 @@ body {
     font-size: 110px;
     line-height: 256px;
   }
-  .benefit__table {
-    margin-bottom: 0;
-  }
+  
   .building__background::after {
     top: -109px;
     left: 0;
